@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Anya Meetoo
 
-<!--
-**AnyaMeetoo492/AnyaMeetoo492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer passionate about building clean, useful, and user-focused software.
 
-Here are some ideas to get you started:
+## 💼 Developer Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 **Focus Areas:** Full-stack web development, API design, and modern frontend experiences.
+- 🛠️ **Tech Stack:** JavaScript, TypeScript, React, Node.js, HTML/CSS, Git, and GitHub Actions.
+- 📌 **What I build:** Practical apps, reusable components, and developer-friendly tooling.
+- 🌱 **Currently learning:** Cloud-native development and software architecture best practices.
+- 🤝 **Open to:** Collaboration on impactful open-source and product-focused projects.
+
+## 📫 Contact
+
+- GitHub: [@AnyaMeetoo492](https://github.com/AnyaMeetoo492)
