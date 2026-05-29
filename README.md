@@ -31,6 +31,7 @@ I am currently looking for an opportunity in **embedded software engineering**, 
 | **SCLE SFE** | Software Engineering Intern | 2026 | Developed C++ image editing module with Qt, SVG integration, and industrial desktop applications |
 | **Qt Company** | QA Engineer Intern | 2025 | Built UI crash datasets using REST APIs, reproduced critical issues, contributed to autonomous testing systems |
 | **Mauritius Telecom** | Network Engineering Intern | 2024 | Analyzed 2G→5G infrastructure evolution, built Power BI dashboards with real network telemetry data |
+| **SD Worx Mauritius** | Intern | Jul 2022 | Learned full-stack web development (HTML, CSS, Bootstrap, C#, SQL) with hands-on project experience |
 
 ---
 
@@ -57,6 +58,7 @@ I am currently looking for an opportunity in **embedded software engineering**, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 **Embedded & Hardware**  
@@ -69,6 +71,7 @@ I am currently looking for an opportunity in **embedded software engineering**, 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Tools & DevOps**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
