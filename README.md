@@ -78,3 +78,7 @@ I am currently looking for an opportunity in **embedded software engineering**, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+
+---
+
+**📝 Note:** This README was created with the help of [GitHub Copilot](https://github.com/features/copilot) ✨
