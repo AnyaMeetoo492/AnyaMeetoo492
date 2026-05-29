@@ -1,7 +1,6 @@
 # 👋 Hi, I'm **Anya Meetoo** 
 
 > **Computer Engineering Student** @ INSA Toulouse (ISS - Innovative Smart Systems)  
-> **Future Embedded Software Engineer** graduating **September 2026**  
 > 🌍 Toulouse, France | 🇲🇺 Mauritian Origins
 
 🔗 [GitHub](https://github.com/AnyaMeetoo492) · 📧 [Email](#) · 💼 [LinkedIn](#)
@@ -17,7 +16,11 @@
 
 ## 🎯 About Me
 
-I build **intelligent, efficient embedded systems** at the intersection of hardware and AI. Passionate about IoT, robotics, and edge computing.
+I am a Computer Engineering student at INSA Toulouse, specializing in Innovative Smart Systems, with a strong interest in **embedded software development, IoT systems and hardware/software integration**. I am graduating in **September 2026**! 🎉
+
+Through my academic projects, I have worked on **connected devices, embedded AI, wireless sensor networks, IoT security and autonomous robotics**. My projects include an **end-to-end LoRa-based smart gas sensor system**, a **CNN model optimized for edge AI**, and a **quadruped robot project** involving FPGA-based processing, depth-camera perception, GSM communication and energy constraints.
+
+I am currently looking for an opportunity in **embedded software engineering**, where I can contribute to reliable, efficient and hardware-aware systems in fields such as **IoT, robotics, industry, automotive or smart systems**.
 
 ---
 
