@@ -22,125 +22,56 @@ I'm a **systems thinker** obsessed with building **intelligent, efficient, and r
 
 ## 🚀 Featured Projects
 
-### 🧠 **Embedded AI Fall Detection** — *CNN on Edge Devices*
-**Problem:** Deploy AI for real-time fall detection on embedded hardware with strict memory/power budgets.  
-**Solution:** Built and optimized a CNN-based image classifier achieving **94.5% accuracy**.
-
-✨ **Key Achievements:**
-- 🔍 **3.6MB → 1.6MB** model compression (pruning & quantization)  
-- ⚡ Real-time inference on embedded platforms  
-- 🎯 Maintained 94.5% accuracy post-optimization  
-
-**Tech:** TensorFlow · Keras · Quantization · Model Optimization  
-📊 [View Project](#)
+### 🧠 **Embedded AI Fall Detection**  
+Real-time CNN-based fall detection optimized for embedded constraints. Achieved **94.5% accuracy** with aggressive model compression (**3.6MB → 1.6MB**) using pruning & quantization techniques.  
+**Tech:** TensorFlow · Keras · Edge AI · Model Optimization
 
 ---
 
-### 🌐 **Smart Gas Sensor System** — *Full-Stack IoT Solution*
-**Problem:** Monitor air quality in remote locations with autonomous, long-range connectivity.  
-**Solution:** Engineered a **complete IoT stack** from hardware design to cloud visualization.
-
-✨ **Key Achievements:**
-- 🧪 **Custom WO₃ nanoparticle gas sensors** with optimized response curves  
-- 🎛️ **Hand-designed PCB** for signal conditioning & analog acquisition  
-- 📡 **LoRa long-range communication** (up to 10+ km line-of-sight)  
-- 📱 **Mobile monitoring app** with real-time dashboards  
-- ☁️ **ChirpStack integration** for network management  
-
-**Tech:** LoRa · Node-RED · ChirpStack · KiCAD · IoT Architecture  
-🔗 [View System Architecture](#)
+### 🌐 **Smart Gas Sensor System** — *Full-Stack IoT Solution*  
+Complete IoT stack from custom WO₃ nanoparticle sensor design to cloud monitoring. Integrated LoRa long-range communication, ChirpStack network management, Node-RED pipeline, and mobile dashboards.  
+**Tech:** LoRa · KiCAD · ChirpStack · Node-RED · IoT  
+🔗 [**View Repository**](https://github.com/AnyaMeetoo492/5ISS_Architecture_de_service)
 
 ---
 
-### 🤖 **Autonomous Quadruped Robot** — *Hardware-Aware AI System*
-**Problem:** Build an energy-efficient autonomous robot with intelligent perception and control.  
-**Solution:** FPGA-accelerated locomotion system with AI-driven movement optimization.
-
-✨ **Key Achievements:**
-- 🎛️ **FPGA-based real-time control** for motor & sensor synchronization  
-- 👁️ **Intel RealSense depth integration** for obstacle detection & navigation  
-- 🧠 **AI-optimized gait generation** (MLP/CNN) for energy efficiency  
-- 📶 **GSM remote control system** for remote operation  
-- ⚡ Designed for **energy-efficient edge computing**  
-
-**Tech:** FPGA · Robotics · Embedded AI · Real-Time Systems · C++  
-🔗 [View Robotics Demo](#)
+### 🤖 **Autonomous Quadruped Robot**  
+FPGA-accelerated robotics system with Intel RealSense depth perception, AI-driven gait optimization, GSM remote control, and energy-efficient edge computing.  
+**Tech:** FPGA · Robotics · Embedded AI · Real-Time Systems
 
 ---
 
-### ☁️ **Distributed Microservices** — *Smart Wine Cellar*
-**Problem:** Build a scalable IoT backend for multi-zone climate control with service independence.  
-**Solution:** Cloud-native microservices architecture with REST APIs and service mesh.
-
-✨ **Key Achievements:**
-- 🏗️ **Microservice architecture** with loose coupling  
-- 🔌 **REST APIs** for temperature, humidity, and environmental control  
-- 🔍 **Service discovery & orchestration** patterns  
-- 💾 **MySQL backend** with optimized queries  
-- 📊 **Real-time telemetry & monitoring**  
-
+### ☁️ **Distributed Microservices** — *Smart Wine Cellar*  
+Scalable microservice architecture for multi-zone climate control. Includes 10+ independent services, REST APIs, service discovery/orchestration, MySQL backend, and real-time telemetry.  
 **Tech:** Spring Boot · Java · REST APIs · MySQL · Microservices  
-🔗 [View Project Repo](https://github.com/AnyaMeetoo492/5ISS_Architecture_de_service)
+🔗 [**View Repository**](https://github.com/AnyaMeetoo492/5ISS_Architecture_de_service)
 
 ---
 
-### 🔧 **STM32 Embedded System** — *Sailboat Autopilot Controller*
-**Problem:** Implement low-latency embedded control for autonomous marine systems.  
-**Solution:** Bare-metal C drivers and real-time control loops on STM32.
-
-✨ **Key Achievements:**
-- 💾 **GPIO, UART, ADC, PWM drivers** from scratch  
-- ⏱️ **NVIC interrupt handling** for deterministic real-time performance  
-- 🎯 **Sub-millisecond response times** for motor control  
-- 📡 **UART communication protocol** implementation  
-
-**Tech:** C · STM32 · Embedded Systems · Real-Time Programming · NVIC  
-🔗 [View Code](#)
+### 🔧 **STM32 Embedded System** — *Sailboat Autopilot Controller*  
+Low-level embedded control for autonomous marine systems. Bare-metal C drivers with GPIO, UART, ADC, PWM implementation, NVIC interrupt handling, and sub-millisecond response times.  
+**Tech:** C · STM32 · Embedded Systems · Real-Time Programming
 
 ---
 
-### 🧩 **Compiler Project** — *Lex & Yacc Parser*
-**Problem:** Understand language theory by building a complete compiler pipeline.  
-**Solution:** Full lexical & syntactic analysis with automated build chain.
-
-✨ **Key Achievements:**
-- 🔤 **Lexical tokenization** with Lex  
-- 🌳 **Syntax tree generation** with Yacc  
-- 🔨 **Automated build pipeline** with Makefile  
-- ✅ Complete compiler toolchain from source to execution  
-
-**Tech:** Lex · Yacc · Parsing · Makefile Automation  
-🔗 [View Project Repo](https://github.com/AnyaMeetoo492/CompilateurC)
+### 🧩 **Compiler Project** — *Lex & Yacc Parser*  
+Complete compiler pipeline with lexical tokenization (Lex) and syntax tree generation (Yacc). Automated build chain with Makefile.  
+**Tech:** Lex · Yacc · Parsing · Makefile  
+🔗 [**View Repository**](https://github.com/AnyaMeetoo492/CompilateurC)
 
 ---
 
-### 📊 **Graph Algorithms Library** — *Dijkstra & A* Implementation*
-**Problem:** Implement efficient pathfinding for navigation systems.  
-**Solution:** Production-quality graph library with modular architecture.
-
-✨ **Key Achievements:**
-- 🚀 **Dijkstra & A* algorithms** with performance optimization  
-- 🏗️ **Clean separation** between UI and algorithm logic  
-- 📦 **Maven-based project** for reproducible builds  
-- 🧪 Comprehensive algorithm test suite  
-
+### 📊 **Graph Algorithms Library**  
+Production-quality implementation of Dijkstra and A* algorithms with clean architecture separation (UI + logic), Maven-based builds, and comprehensive test suite.  
 **Tech:** Java · Algorithms · OOP · Maven  
-🔗 [View Project Repo](https://github.com/AnyaMeetoo492/BE_Graphes)
+🔗 [**View Repository**](https://github.com/AnyaMeetoo492/BE_Graphes)
 
 ---
 
-### 🎮 **Minesweeper Web Game** — *Interactive Browser Game*
-**Problem:** Create an engaging web-based game with variable difficulty.  
-**Solution:** Responsive web game with progressive difficulty scaling.
-
-✨ **Key Achievements:**
-- 🎯 **Responsive game mechanics** with multiple difficulty levels  
-- 🎨 **Clean, intuitive UI** with CSS animations  
-- 🚀 **GitHub Pages deployment** for instant access  
-- 📱 **Cross-browser compatibility**  
-
+### 🎮 **Minesweeper Web Game**  
+Interactive web-based game with responsive mechanics, multiple difficulty levels, CSS animations, and GitHub Pages deployment.  
 **Tech:** HTML · CSS · JavaScript · GitHub Pages  
-🔗 [Play the Game](https://github.com/AnyaMeetoo492/ProgWeb)
+🔗 [**View Repository**](https://github.com/AnyaMeetoo492/ProgWeb)
 
 ---
 
@@ -152,9 +83,8 @@ I'm a **systems thinker** obsessed with building **intelligent, efficient, and r
 - 🖼️ Developed **system image editing module** in C++ with Qt framework  
 - 🎨 Implemented **UI customization & SVG vector graphics** integration  
 - 🔧 Contributed to **industrial-grade desktop application** architecture  
-- 💡 Real-world experience with **large-scale C++ codebases** & MVC patterns
 
-**Skills Applied:** C++ · Qt · UI Development · Software Architecture
+**Skills:** C++ · Qt · UI Development · Software Architecture
 
 ---
 
@@ -164,9 +94,8 @@ I'm a **systems thinker** obsessed with building **intelligent, efficient, and r
 - 🔍 Built **large-scale UI crash dataset** using REST APIs  
 - 🐛 **Reproduced critical issues** in virtual test environments  
 - 🤖 Contributed to **autonomous testing system** development  
-- 📊 Identified & categorized hundreds of edge-case failures
 
-**Skills Applied:** Testing · REST APIs · Data Analysis · QA Automation
+**Skills:** Testing · REST APIs · Data Analysis · QA Automation
 
 ---
 
@@ -175,29 +104,21 @@ I'm a **systems thinker** obsessed with building **intelligent, efficient, and r
 
 - 📡 Analyzed **2G → 5G network evolution** and infrastructure  
 - 📈 Built **Power BI dashboards** with real network performance data  
-- 🔍 Extracted actionable insights from **network telemetry data**  
-- 💾 Worked with large-scale **telecom datasets & KPIs**
+- 🔍 Extracted actionable insights from **network telemetry**  
 
-**Skills Applied:** Network Engineering · Power BI · Data Analytics
+**Skills:** Network Engineering · Power BI · Data Analytics
 
 ---
 
 ## 🧰 Tech Stack
 
-### **Languages**
-`C` · `C++` · `Python` · `Java` · `JavaScript` · `SQL` · `Bash`
-
-### **Embedded & Hardware**
-`STM32` · `FPGA` · `UART` · `ADC` · `PWM` · `GPIO` · `Real-Time Systems` · `KiCAD`
-
-### **Frameworks & Libraries**
-`Qt` · `Spring Boot` · `TensorFlow` · `Keras` · `Node-RED` · `ChirpStack`
-
-### **Tools & DevOps**
-`Git` · `GitLab` · `GitHub` · `Jira` · `Maven` · `Make` · `MATLAB` · `VS Code` · `Docker`
-
-### **Specializations**
-`IoT Architecture` · `Edge AI` · `Embedded Systems` · `Robotics` · `Microservices` · `Real-Time Programming`
+| Category | Technologies |
+|----------|---------------|
+| **Languages** | C · C++ · Python · Java · JavaScript · SQL · Bash |
+| **Embedded & Hardware** | STM32 · FPGA · UART · ADC · PWM · GPIO · KiCAD |
+| **Frameworks & Libraries** | Qt · Spring Boot · TensorFlow · Keras · Node-RED · ChirpStack |
+| **Tools & DevOps** | Git · GitLab · GitHub · Jira · Maven · Make · MATLAB · Docker |
+| **Specializations** | IoT Architecture · Edge AI · Embedded Systems · Robotics · Microservices · Real-Time Programming |
 
 ---
 
