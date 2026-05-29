@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Anya Meetoo** 
 
 > **Computer Engineering Student** @ INSA Toulouse (ISS - Innovative Smart Systems)  
-> 🌍 Toulouse, France | 🇲🇺 Mauritian Origins
+> 🌍 Toulouse, France | Open to relocate in France | 🇲🇺 Mauritian 
 
 🔗 [GitHub](https://github.com/AnyaMeetoo492) · 📧 [Email](#) · 💼 [LinkedIn](#)
 
