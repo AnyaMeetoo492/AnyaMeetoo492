@@ -9,7 +9,7 @@
 
 ## 🎓 Education
 
-**INSA Toulouse** — Computer Engineering (ISS - Innovative Smart Systems)  
+[**INSA Toulouse**](https://www.insa-toulouse.fr/) — Computer Engineering (ISS - Innovative Smart Systems)  
 📅 Graduating: **September 2026**
 
 ---
