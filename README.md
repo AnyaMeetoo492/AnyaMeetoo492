@@ -4,11 +4,30 @@
 > **Future Embedded Software Engineer** graduating **September 2026**  
 > 🌍 Toulouse, France | 🇲🇺 Mauritian Origins
 
+🔗 [GitHub](https://github.com/AnyaMeetoo492) · 📧 [Email](#) · 💼 [LinkedIn](#)
+
+---
+
+## 🎓 Education
+
+**INSA Toulouse** — Computer Engineering (ISS - Innovative Smart Systems)  
+📅 Graduating: **September 2026**
+
 ---
 
 ## 🎯 About Me
 
 I build **intelligent, efficient embedded systems** at the intersection of hardware and AI. Passionate about IoT, robotics, and edge computing.
+
+---
+
+## 💼 Professional Experience
+
+| Company | Role | Timeline | Description |
+|---------|------|----------|-------------|
+| **SCLE SFE** | Software Engineering Intern | 2026 | Developed C++ image editing module with Qt, SVG integration, and industrial desktop applications |
+| **Qt Company** | QA Engineer Intern | 2025 | Built UI crash datasets using REST APIs, reproduced critical issues, contributed to autonomous testing systems |
+| **Mauritius Telecom** | Network Engineering Intern | 2024 | Analyzed 2G→5G infrastructure evolution, built Power BI dashboards with real network telemetry data |
 
 ---
 
@@ -24,14 +43,6 @@ I build **intelligent, efficient embedded systems** at the intersection of hardw
 | 🧩 **Graph Algorithms** | Dijkstra & A* implementation with clean architecture | [**Java**](https://github.com/AnyaMeetoo492/BE_Graphes) · Maven |
 | 🧩 **Compiler (Lex & Yacc)** | Complete compiler pipeline with lexical & syntax analysis | [**C**](https://github.com/AnyaMeetoo492/CompilateurC) · Parsing |
 | 🎮 **Minesweeper Web Game** | Interactive game with difficulty levels & animations | [**JavaScript**](https://github.com/AnyaMeetoo492/ProgWeb) · GitHub Pages |
-
----
-
-## 💼 Experience
-
-**SCLE SFE** (2026) · **Qt Company** (2025) · **Mauritius Telecom** (2024)
-
-Internships across embedded software, QA automation, and network engineering.
 
 ---
 
@@ -61,10 +72,3 @@ Internships across embedded software, QA automation, and network engineering.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-
----
-
-## 📫 Connect
-
-🔗 [GitHub](https://github.com/AnyaMeetoo492) · 📧 [Email](#) · 💼 [LinkedIn](#)
-
