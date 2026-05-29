@@ -14,6 +14,16 @@
 
 ---
 
+## 🌐 Languages
+
+| Language | Proficiency | Certification |
+|----------|-------------|----------------|
+| 🇬🇧 English | Native or bilingual (C1) | TOEIC 985/990 |
+| 🇫🇷 French | Native or bilingual (C1) | DALF |
+| 🇲🇺 Mauritian Creole | Native | — |
+
+---
+
 ## 🎯 About Me
 
 I am a Computer Engineering student at INSA Toulouse, specializing in Innovative Smart Systems, with a strong interest in **embedded software development, IoT systems and hardware/software integration**. I am graduating in **September 2026**! 🎉
