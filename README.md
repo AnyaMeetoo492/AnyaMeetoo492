@@ -3,7 +3,7 @@
 > **Computer Engineering Student** @ INSA Toulouse (ISS - Innovative Smart Systems)  
 > 🇫🇷 Toulouse, France | Open to relocate in France | 🇲🇺 Mauritian 
 
-🔗 [GitHub](https://github.com/AnyaMeetoo492) · 📧 [Email](#) · 💼 [LinkedIn](#)
+🔗 [GitHub](https://github.com/AnyaMeetoo492) · 📧 [Email](mailto:anyameetoo@gmail.com) · 💼 [LinkedIn]([#](https://www.linkedin.com/in/anyameetoo/)) · 📄 [Resume](https://resume-qp9t1blno-anyameetoo492s-projects.vercel.app/)
 
 ---
 
