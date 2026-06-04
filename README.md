@@ -45,7 +45,7 @@ I am currently looking for an opportunity in **embedded software engineering**, 
 |---------|-------------|------|
 | 🧠 **Embedded AI Fall Detection** | CNN-based fall detection with 94.5% accuracy, optimized from 3.6MB → 1.6MB | TensorFlow · Keras |
 | 🌐 [**Smart Gas Sensor System**](https://github.com/MOSH-Insa-Toulouse/2025-2026-5ISS-MEETOO-MIRANVILLE-REVELLI) | Full-stack IoT: custom sensors, LoRa communication, ChirpStack, mobile app | LoRa · KiCAD · IoT |
-| 🤖 **Autonomous Quadruped Robot** | FPGA-accelerated locomotion, RealSense depth, AI gait optimization | FPGA · Robotics · C++ |
+| 🤖 **Quadruped Robot Locomotion** | FPGA-accelerated locomotion, RealSense depth, AI gait optimization | FPGA · Robotics · C++ |
 | ☁️ [**Smart Wine Cellar**](https://github.com/AnyaMeetoo492/5ISS_Architecture_de_service) | Microservices architecture with 10+ services, REST APIs, real-time monitoring | Java · Spring Boot |
 | 🔧 [**STM32 Sailboat Controller**](https://github.com/bongibault-romain/insa-voilier) | Bare-metal C drivers: GPIO, UART, ADC, PWM, NVIC interrupts | C · STM32 |
 | 🧩 [**Graph Algorithms**](https://github.com/AnyaMeetoo492/BE_Graphes)  | Dijkstra & A* implementation with clean architecture | Java · Maven |
@@ -56,21 +56,11 @@ I am currently looking for an opportunity in **embedded software engineering**, 
 
 ## 🎓 Education
 
-| Degree | Institution | Timeline |
-|--------|-------------|----------|
-| Engineering Degree – Computer Science (IR-ISS - Innovative Smart Systems) \n 📅 Graduating: **September 2026** | <img src="Images/T-INSA-UPS_France-Logo_insatoulouse.png" alt="INSA Toulouse Logo" width="100"/> \n
-[INSA Toulouse](https://www.insa-toulouse.fr/) | 2022 - 2026 |
-| Bachelor 1 – Computer Science | <img src="Images/logo_univ_toulouse_3.png" alt="UPS3 Logo" width="100"/> /n 
-[Université Paul Sabatier Toulouse III](https://www.univ-tlse3.fr/) | 2021 - 2022 |
-| Higher School Certificate – Mathematics & Computer Science | Loreto College Quatre Bornes | 2014 - 2021 |
-
-## 🎓 Education
-
-| Degree | Institution | Timeline |
-|--------|-------------|----------|
-| Engineering Degree – Computer Science (IR-ISS - Innovative Smart Systems) <br> 📅 Graduating: **September 2026** | <img src="Images/T-INSA-UPS_France-Logo_insatoulouse.png" alt="INSA Toulouse Logo" width="100"/> <br> [INSA Toulouse](https://www.insa-toulouse.fr/) | 2022 - 2026 |
-| Bachelor 1 – Computer Science | <img src="Images/logo_univ_toulouse_3.png" alt="UPS3 Logo" width="100"/> <br> [Université Paul Sabatier Toulouse III](https://www.univ-tlse3.fr/) | 2021 - 2022 |
-| Higher School Certificate – Mathematics & Computer Science | Loreto College Quatre Bornes | 2014 - 2021 |
+| Timeline | Institution | Degree |
+|----------|-------------|--------|
+| 2022 - 2026 | [INSA Toulouse](https://www.insa-toulouse.fr/) <br> <img src="Images/T-INSA-UPS_France-Logo_insatoulouse.png" alt="INSA Toulouse Logo"/> | Engineering Degree – Computer Science (IR-ISS - Innovative Smart Systems) <br> 📅 Graduating: **September 2026** |
+| 2021 - 2022 | [Université Paul Sabatier Toulouse III](https://www.univ-tlse3.fr/) <br> <img src="Images/logo_univ_toulouse_3.png" alt="UPS3 Logo" width="100"/> | Bachelor 1 – Computer Science |
+| 2014 - 2021 | Loreto College Quatre Bornes | Higher School Certificate – Mathematics & Computer Science |
 
 ---
 
