@@ -4,7 +4,7 @@
 > 📅 Graduating: **September 2026**
 > 🇫🇷 Toulouse, France | Open to relocate in France | 🇲🇺 Mauritian 
 
-🔗 [GitHub](https://github.com/AnyaMeetoo492) · 📧 [Email](mailto:anyameetoo@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/anyameetoo/) · 📄 [Resume](https://resume-cyan-six-57.vercel.app/)
+🔗 [Linktree](https://linktr.ee/anyameetoo) · 🤖 [GitHub](https://github.com/AnyaMeetoo492) · 📧 [Email](mailto:anyameetoo@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/anyameetoo/) · 📄 [Resume](https://resume-cyan-six-57.vercel.app/)
 
 ---
 
