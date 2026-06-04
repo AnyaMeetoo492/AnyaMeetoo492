@@ -1,29 +1,20 @@
 # 👋 Hi, I'm **Anya Meetoo** 
 
-> **Computer Engineering Student** @ INSA Toulouse (ISS - Innovative Smart Systems)  
+> **Computer Engineering Student** @ INSA Toulouse (ISS - Innovative Smart Systems)
+> 📅 Graduating: **September 2026**
 > 🇫🇷 Toulouse, France | Open to relocate in France | 🇲🇺 Mauritian 
 
-🔗 [GitHub](https://github.com/AnyaMeetoo492) · 📧 [Email](mailto:anyameetoo@gmail.com) · 💼 [LinkedIn]([#](https://www.linkedin.com/in/anyameetoo/)) · 📄 [Resume](https://resume-qp9t1blno-anyameetoo492s-projects.vercel.app/)
+🔗 [GitHub](https://github.com/AnyaMeetoo492) · 📧 [Email](mailto:anyameetoo@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/anyameetoo/) · 📄 [Resume](https://resume-cyan-six-57.vercel.app/)
 
 ---
 
-## 🎓 Education
-<p>
-  <img src="Images/T-INSA-UPS_France-Logo_insatoulouse.png" alt="INSA Toulouse Logo" width="100"/>
-</p> 
+## 🎯 Current Interests
 
-[**INSA Toulouse**](https://www.insa-toulouse.fr/) — Computer Engineering (ISS - Innovative Smart Systems)
-📅 Graduating: **September 2026**
-
----
-
-## 🌐 Languages
-
-| Language | Proficiency | Certification |
-|----------|-------------|----------------|
-| 🇬🇧 English | Native or bilingual (C1) | TOEIC 985/990 |
-| 🇫🇷 French | Native or bilingual (C1) | DALF |
-| 🇲🇺 Mauritian Creole | Native | — |
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-034694?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT-0099FF?style=flat-square)
+![Robotics](https://img.shields.io/badge/Robotics-FF6B35?style=flat-square)
+![AI](https://img.shields.io/badge/AI-412991?style=flat-square)
+![3D Processing](https://img.shields.io/badge/3D%20Processing-FF69B4?style=flat-square)
 
 ---
 
@@ -53,13 +44,33 @@ I am currently looking for an opportunity in **embedded software engineering**, 
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🧠 **Embedded AI Fall Detection** | CNN-based fall detection with 94.5% accuracy, optimized from 3.6MB → 1.6MB | TensorFlow · Keras |
-| 🌐 **Smart Gas Sensor System** | Full-stack IoT: custom sensors, LoRa communication, ChirpStack, mobile app | LoRa · KiCAD · IoT |
+| 🌐 [**Smart Gas Sensor System**](https://github.com/MOSH-Insa-Toulouse/2025-2026-5ISS-MEETOO-MIRANVILLE-REVELLI) | Full-stack IoT: custom sensors, LoRa communication, ChirpStack, mobile app | LoRa · KiCAD · IoT |
 | 🤖 **Autonomous Quadruped Robot** | FPGA-accelerated locomotion, RealSense depth, AI gait optimization | FPGA · Robotics · C++ |
-| ☁️ **Smart Wine Cellar** | Microservices architecture with 10+ services, REST APIs, real-time monitoring | [**Java**](https://github.com/AnyaMeetoo492/5ISS_Architecture_de_service) · Spring Boot |
-| 🔧 **STM32 Sailboat Controller** | Bare-metal C drivers: GPIO, UART, ADC, PWM, NVIC interrupts | C · STM32 |
-| 🧩 **Graph Algorithms** | Dijkstra & A* implementation with clean architecture | [**Java**](https://github.com/AnyaMeetoo492/BE_Graphes) · Maven |
-| 🧩 **Compiler (Lex & Yacc)** | Complete compiler pipeline with lexical & syntax analysis | [**C**](https://github.com/AnyaMeetoo492/CompilateurC) · Parsing |
-| 🎮 **Minesweeper Web Game** | Interactive game with difficulty levels & animations | [**JavaScript**](https://github.com/AnyaMeetoo492/ProgWeb) · GitHub Pages |
+| ☁️ [**Smart Wine Cellar**](https://github.com/AnyaMeetoo492/5ISS_Architecture_de_service) | Microservices architecture with 10+ services, REST APIs, real-time monitoring | Java · Spring Boot |
+| 🔧 [**STM32 Sailboat Controller**](https://github.com/bongibault-romain/insa-voilier) | Bare-metal C drivers: GPIO, UART, ADC, PWM, NVIC interrupts | C · STM32 |
+| 🧩 [**Graph Algorithms**](https://github.com/AnyaMeetoo492/BE_Graphes)  | Dijkstra & A* implementation with clean architecture | Java · Maven |
+| 🧩 [**Compiler (Lex & Yacc)**](https://github.com/AnyaMeetoo492/CompilateurC) | Complete compiler pipeline with lexical & syntax analysis | C · Parsing |
+| 🎮 [**Minesweeper Web Game**](https://github.com/AnyaMeetoo492/ProgWeb) | Interactive game with difficulty levels & animations | JavaScript · GitHub Pages |
+
+---
+
+## 🎓 Education
+<p>
+  <img src="Images/T-INSA-UPS_France-Logo_insatoulouse.png" alt="INSA Toulouse Logo" width="100"/>
+</p> 
+
+[**INSA Toulouse**](https://www.insa-toulouse.fr/) — Computer Engineering (ISS - Innovative Smart Systems)
+📅 Graduating: **September 2026**
+
+---
+
+## 🌐 Languages
+
+| Language | Proficiency | Certification |
+|----------|-------------|----------------|
+| 🇬🇧 English | Native or bilingual (C1) | TOEIC 985/990 |
+| 🇫🇷 French | Native or bilingual (C1) | DALF |
+| 🇲🇺 Mauritian Creole | Native | — |
 
 ---
 
