@@ -10,15 +10,15 @@
 
 ## 🎯 Current Interests
 
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-034694?style=flat-square)
-![IoT](https://img.shields.io/badge/IoT-0099FF?style=flat-square)
-![Robotics](https://img.shields.io/badge/Robotics-FF6B35?style=flat-square)
-![AI](https://img.shields.io/badge/AI-412991?style=flat-square)
-![3D Processing](https://img.shields.io/badge/3D%20Processing-FF69B4?style=flat-square)
+![🔌 Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-034694?style=flat-square)
+![🌐 IoT](https://img.shields.io/badge/IoT-0099FF?style=flat-square)
+![🤖 Robotics](https://img.shields.io/badge/Robotics-FF6B35?style=flat-square)
+![🧠 AI](https://img.shields.io/badge/AI-412991?style=flat-square)
+![🖨️​ 3D Processing](https://img.shields.io/badge/3D%20Processing-FF69B4?style=flat-square)
 
 ---
 
-## 🎯 About Me
+## 👩‍🎓​ About Me
 
 I am a **Computer Engineering** student at INSA Toulouse, specializing in Innovative Smart Systems, with a strong interest in **embedded software development, IoT systems and hardware/software integration**. I am graduating in **September 2026**! 🎉
 
@@ -57,10 +57,19 @@ I am currently looking for an opportunity in **embedded software engineering**, 
 ## 🎓 Education
 <p>
   <img src="Images/T-INSA-UPS_France-Logo_insatoulouse.png" alt="INSA Toulouse Logo" width="100"/>
+  
 </p> 
 
 [**INSA Toulouse**](https://www.insa-toulouse.fr/) — Computer Engineering (ISS - Innovative Smart Systems)
-📅 Graduating: **September 2026**
+
+
+| Degree | Institution | Timeline |
+|--------|-------------|----------|
+| <img src="Images/T-INSA-UPS_France-Logo_insatoulouse.png" alt="INSA Toulouse Logo" width="100"/>
+  Engineering Degree – Computer Science (IR - Innovative Smart Systems) 📅 Graduating: **September 2026** | [INSA Toulouse](https://www.insa-toulouse.fr/) | 2022 - 2026 |
+| <img src="Images/logo_univ_toulouse_3.png" alt="UPS3 Logo" width="100"/>
+Bachelor 1 – Computer Science | [Université Paul Sabatier Toulouse III](https://www.univ-tlse3.fr/) | 2021 - 2022 |
+| Higher School Certificate – Mathematics & Computer Science | Loreto College Quatre Bornes | 2014 - 2021 |
 
 ---
 
