@@ -20,7 +20,7 @@
 
 ## 🎯 About Me
 
-I am a Computer Engineering student at INSA Toulouse, specializing in Innovative Smart Systems, with a strong interest in **embedded software development, IoT systems and hardware/software integration**. I am graduating in **September 2026**! 🎉
+I am a **Computer Engineering** student at INSA Toulouse, specializing in Innovative Smart Systems, with a strong interest in **embedded software development, IoT systems and hardware/software integration**. I am graduating in **September 2026**! 🎉
 
 Through my academic projects, I have worked on **connected devices, embedded AI, wireless sensor networks, IoT security and autonomous robotics**. My projects include an **end-to-end LoRa-based smart gas sensor system**, a **CNN model optimized for edge AI**, and a **quadruped robot project** involving FPGA-based processing, depth-camera perception, GSM communication and energy constraints.
 
@@ -32,10 +32,10 @@ I am currently looking for an opportunity in **embedded software engineering**, 
 
 | Company | Role | Timeline | Description |
 |---------|------|----------|-------------|
-| **SCLE SFE** | Software Engineering Intern | 2026 | Developed C++ image editing module with Qt, SVG integration, and industrial desktop applications |
-| **Qt Company** | QA Engineer Intern | 2025 | Built UI crash datasets using REST APIs, reproduced critical issues, contributed to autonomous testing systems |
-| **Mauritius Telecom** | Network Engineering Intern | 2024 | Analyzed 2G→5G infrastructure evolution, built Power BI dashboards with real network telemetry data |
-| **SD Worx Mauritius** | Intern | Jul 2022 | Learned full-stack web development (HTML, CSS, Bootstrap, C#, SQL) with hands-on project experience |
+| [**SCLE SFE**](https://www.scle.fr/) | Software Engineering Intern | 2026 | Developed C++ image editing module with Qt, SVG integration, and industrial desktop applications |
+| [**Qt Company**](https://www.qt.io/) | QA Engineer Intern | 2025 | Built UI crash datasets using REST APIs, reproduced critical issues, contributed to autonomous testing systems |
+| [**Mauritius Telecom**](https://www.telecom.mu/) | Network Engineering Intern | 2024 | Analyzed 2G→5G infrastructure evolution, built Power BI dashboards with real network telemetry data |
+| [**SD Worx Mauritius**](https://www.sdworx.com/) | Intern | Jul 2022 | Learned full-stack web development (HTML, CSS, Bootstrap, C#, SQL) with hands-on project experience |
 
 ---
 
