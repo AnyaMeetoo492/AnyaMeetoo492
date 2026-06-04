@@ -58,8 +58,8 @@ I am currently looking for an opportunity in **embedded software engineering**, 
 
 | Timeline | Institution | Degree |
 |----------|-------------|--------|
-| 2022 - 2026 | [INSA Toulouse](https://www.insa-toulouse.fr/) <br> <img src="Images/T-INSA-UPS_France-Logo_insatoulouse.png" alt="INSA Toulouse Logo" height="20"/> | Engineering Degree – Computer Science (IR-ISS - Innovative Smart Systems) <br> 📅 Graduating: **September 2026** |
-| 2021 - 2022 | [Université Paul Sabatier Toulouse III](https://www.univ-tlse3.fr/) <br> <img src="Images/logo_univ_toulouse_3.png" alt="UPS3 Logo" height="20"/> | Bachelor 1 – Computer Science |
+| 2022 - 2026 | <img src="Images/T-INSA-UPS_France-Logo_insatoulouse.png" alt="INSA Toulouse Logo" height="20"/> <br> [INSA Toulouse](https://www.insa-toulouse.fr/) | Engineering Degree – Computer Science (IR-ISS - Innovative Smart Systems) <br> 📅 Graduating: **September 2026** |
+| 2021 - 2022 | <img src="Images/logo_univ_toulouse_3.png" alt="UPS3 Logo" width="100"/> <br> [Université Paul Sabatier Toulouse III](https://www.univ-tlse3.fr/) | Bachelor 1 – Computer Science |
 | 2014 - 2021 | Loreto College Quatre Bornes | Higher School Certificate – Mathematics & Computer Science |
 
 ---
